@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 36.7578,
+    "lat": 35.1318
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "سماء صافية",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21.62,
+    "feels_like": 21.27,
+    "temp_min": 21.62,
+    "temp_max": 21.62,
+    "pressure": 1020,
+    "humidity": 55,
+    "sea_level": 1020,
+    "grnd_level": 979
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.88,
+    "deg": 93,
+    "gust": 4.87
+  },
+  "clouds": {
+    "all": 5
+  },
+  "dt": 1792606825,
+  "sys": {
+    "country": "SY",
+    "sunrise": 1792554220,
+    "sunset": 1792594277
+  },
+  "timezone": 10800,
+  "id": 170017,
+  "name": "حماة",
+  "cod": 200
+}
